@@ -1,0 +1,427 @@
+[
+    {
+        "id": "1",
+        "type": "installation",
+        "title": "Internet Installation",
+        "created_datetime": "2023-08-15T15:23:00Z",
+        "description": "I requested internet access with fiber cables to my house",
+        "customer_info": {
+            "name": "John Doe",
+            "contact_no": "011299887766",
+            "address": "123 Main St",
+            "city": "Sample City",
+            "country": "Sample Country",
+            "postal_code": "12345",
+            "preferred_fulfillment_datetime": "2023-09-05T15:23:00Z"
+        },
+        "status": "open"
+    },
+    {
+        "id": "2",
+        "type": "relocation",
+        "title": "Office Relocation",
+        "created_datetime": "2023-08-16T10:45:00Z",
+        "description": "We are relocating our office to a new location.",
+        "customer_info": {
+            "name": "Jane Smith",
+            "contact_no": "02233445566",
+            "address": "456 Business Rd",
+            "city": "Business Town",
+            "country": "Businessland",
+            "postal_code": "54321",
+            "preferred_fulfillment_datetime": "2023-09-10T09:00:00Z"
+        },
+        "status": "ongoing"
+    },
+    {
+        "id": "3",
+        "type": "installation",
+        "title": "Home Fiber Setup",
+        "created_datetime": "2023-08-17T14:12:00Z",
+        "description": "Setting up fiber internet at my new home.",
+        "customer_info": {
+            "name": "Alice Johnson",
+            "contact_no": "03366778899",
+            "address": "789 Elm St",
+            "city": "Elmville",
+            "country": "Elmland",
+            "postal_code": "98765",
+            "preferred_fulfillment_datetime": "2023-09-02T16:30:00Z"
+        },
+        "status": "completed"
+    },
+    {
+        "id": "4",
+        "type": "installation",
+        "title": "Cable Internet Request",
+        "created_datetime": "2023-08-18T09:30:00Z",
+        "description": "Requesting cable internet for my apartment.",
+        "customer_info": {
+            "name": "David Brown",
+            "contact_no": "04411223344",
+            "address": "567 Oak Ave",
+            "city": "Oaksville",
+            "country": "Oakland",
+            "postal_code": "11223",
+            "preferred_fulfillment_datetime": "2023-09-01T14:00:00Z"
+        },
+        "status": "cancelled"
+    },
+    {
+        "id": "5",
+        "type": "relocation",
+        "title": "Warehouse Move",
+        "created_datetime": "2023-08-19T11:15:00Z",
+        "description": "Moving our warehouse to a new location.",
+        "customer_info": {
+            "name": "Warehouse Co.",
+            "contact_no": "05578901234",
+            "address": "101 Storage Dr",
+            "city": "Storagetown",
+            "country": "Storageland",
+            "postal_code": "67890",
+            "preferred_fulfillment_datetime": "2023-09-15T10:00:00Z"
+        },
+        "status": "open"
+    },
+    {
+        "id": "6",
+        "type": "installation",
+        "title": "Broadband Setup",
+        "created_datetime": "2023-08-20T13:30:00Z",
+        "description": "Setting up broadband internet at a new office.",
+        "customer_info": {
+            "name": "Tech Innovations",
+            "contact_no": "06654321098",
+            "address": "321 Tech Rd",
+            "city": "Techville",
+            "country": "Techland",
+            "postal_code": "54321",
+            "preferred_fulfillment_datetime": "2023-09-09T09:30:00Z"
+        },
+        "status": "ongoing"
+    },
+    {
+        "id": "7",
+        "type": "installation",
+        "title": "Home Network Upgrade",
+        "created_datetime": "2023-08-21T16:45:00Z",
+        "description": "Upgrading the home network for improved performance.",
+        "customer_info": {
+            "name": "Eva Anderson",
+            "contact_no": "07711223344",
+            "address": "456 Pine St",
+            "city": "Pineville",
+            "country": "Pineland",
+            "postal_code": "98765",
+            "preferred_fulfillment_datetime": "2023-09-03T17:00:00Z"
+        },
+        "status": "completed"
+    },
+    {
+        "id": "8",
+        "type": "relocation",
+        "title": "Office Expansion",
+        "created_datetime": "2023-08-22T09:00:00Z",
+        "description": "Expanding our office space to accommodate more employees.",
+        "customer_info": {
+            "name": "ABC Corp",
+            "contact_no": "08899887766",
+            "address": "789 Expansion Blvd",
+            "city": "Growthtown",
+            "country": "Expanseland",
+            "postal_code": "12345",
+            "preferred_fulfillment_datetime": "2023-09-12T11:00:00Z"
+        },
+        "status": "open"
+    },
+    {
+        "id": "9",
+        "type": "relocation",
+        "title": "Data Center Move",
+        "created_datetime": "2023-08-23T14:15:00Z",
+        "description": "Relocating our data center to a secure facility.",
+        "customer_info": {
+            "name": "Data Solutions Ltd",
+            "contact_no": "09988776655",
+            "address": "222 Secure Dr",
+            "city": "Securityville",
+            "country": "Secureland",
+            "postal_code": "54321",
+            "preferred_fulfillment_datetime": "2023-09-08T14:30:00Z"
+        },
+        "status": "ongoing"
+    },
+    {
+        "id": "10",
+        "type": "installation",
+        "title": "Smart Home Setup",
+        "created_datetime": "2023-08-24T17:30:00Z",
+        "description": "Setting up a smart home automation system.",
+        "customer_info": {
+            "name": "Smart Living Inc",
+            "contact_no": "07776543210",
+            "address": "777 Smart St",
+            "city": "Smartville",
+            "country": "Smartland",
+            "postal_code": "67890",
+            "preferred_fulfillment_datetime": "2023-09-07T16:45:00Z"
+        },
+        "status": "open"
+    },
+    {
+        "id": "11",
+        "type": "relocation",
+        "title": "Retail Store Move",
+        "created_datetime": "2023-08-25T09:45:00Z",
+        "description": "Relocating our retail store to a larger location.",
+        "customer_info": {
+            "name": "Retail Emporium",
+            "contact_no": "08887776655",
+            "address": "123 Shopper Rd",
+            "city": "Shopville",
+            "country": "Retailand",
+            "postal_code": "12345",
+            "preferred_fulfillment_datetime": "2023-09-14T10:30:00Z"
+        },
+        "status": "open"
+    },
+    {
+        "id": "12",
+        "type": "installation",
+        "title": "Fiber Optic Internet",
+        "created_datetime": "2023-08-26T11:00:00Z",
+        "description": "Connecting to high-speed fiber optic internet.",
+        "customer_info": {
+            "name": "FastNet Solutions",
+            "contact_no": "09998887776",
+            "address": "555 Fiber Blvd",
+            "city": "Fiberville",
+            "country": "Fiberland",
+            "postal_code": "98765",
+            "preferred_fulfillment_datetime": "2023-09-04T13:15:00Z"
+        },
+        "status": "completed"
+    },
+    {
+        "id": "13",
+        "type": "installation",
+        "title": "Home Security System",
+        "created_datetime": "2023-08-27T14:15:00Z",
+        "description": "Installing a home security system.",
+        "customer_info": {
+            "name": "SecureHome Inc",
+            "contact_no": "07771112233",
+            "address": "999 Secure Ave",
+            "city": "Securityville",
+            "country": "Secureland",
+            "postal_code": "54321",
+            "preferred_fulfillment_datetime": "2023-09-06T15:30:00Z"
+        },
+        "status": "open"
+    },
+    {
+        "id": "14",
+        "type": "installation",
+        "title": "Satellite TV Setup",
+        "created_datetime": "2023-08-28T16:30:00Z",
+        "description": "Setting up satellite TV at home.",
+        "customer_info": {
+            "name": "Satellite Vision Ltd",
+            "contact_no": "05556667778",
+            "address": "888 Satellite Rd",
+            "city": "Satelliteville",
+            "country": "Satland",
+            "postal_code": "67890",
+            "preferred_fulfillment_datetime": "2023-09-03T18:00:00Z"
+        },
+        "status": "ongoing"
+    },
+    {
+        "id": "15",
+        "type": "installation",
+        "title": "Smart Office Automation",
+        "created_datetime": "2023-08-29T09:45:00Z",
+        "description": "Automating office processes for efficiency.",
+        "customer_info": {
+            "name": "OfficeTech Solutions",
+            "contact_no": "07778889999",
+            "address": "111 Tech Blvd",
+            "city": "Techtown",
+            "country": "Techland",
+            "postal_code": "12345",
+            "preferred_fulfillment_datetime": "2023-09-11T11:30:00Z"
+        },
+        "status": "open"
+    },
+    {
+        "id": "16",
+        "type": "relocation",
+        "title": "Data Center Expansion",
+        "created_datetime": "2023-08-30T11:00:00Z",
+        "description": "Expanding our data center to accommodate more servers.",
+        "customer_info": {
+            "name": "DataHub Ltd",
+            "contact_no": "08889998888",
+            "address": "777 Server Dr",
+            "city": "Serverville",
+            "country": "Serverland",
+            "postal_code": "98765",
+            "preferred_fulfillment_datetime": "2023-09-13T13:45:00Z"
+        },
+        "status": "open"
+    },
+    {
+        "id": "17",
+        "type": "installation",
+        "title": "Home Theater Setup",
+        "created_datetime": "2023-08-31T14:15:00Z",
+        "description": "Setting up a home theater system.",
+        "customer_info": {
+            "name": "MovieTime Inc",
+            "contact_no": "05555555555",
+            "address": "123 Cinema Rd",
+            "city": "Cinematown",
+            "country": "Cinemaland",
+            "postal_code": "54321",
+            "preferred_fulfillment_datetime": "2023-09-02T16:00:00Z"
+        },
+        "status": "completed"
+    },
+    {
+        "id": "18",
+        "type": "installation",
+        "title": "Solar Panel Installation",
+        "created_datetime": "2023-09-01T16:30:00Z",
+        "description": "Installing solar panels for clean energy.",
+        "customer_info": {
+            "name": "EcoPower Solutions",
+            "contact_no": "07776665544",
+            "address": "555 Solar Ave",
+            "city": "Solarville",
+            "country": "Solarland",
+            "postal_code": "67890",
+            "preferred_fulfillment_datetime": "2023-09-05T15:45:00Z"
+        },
+        "status": "ongoing"
+    },
+    {
+        "id": "19",
+        "type": "relocation",
+        "title": "Retail Store Expansion",
+        "created_datetime": "2023-09-02T09:45:00Z",
+        "description": "Expanding our retail store to a larger space.",
+        "customer_info": {
+            "name": "Retail Plus",
+            "contact_no": "09998887776",
+            "address": "123 Mega Mall",
+            "city": "Megatown",
+            "country": "Mallland",
+            "postal_code": "12345",
+            "preferred_fulfillment_datetime": "2023-09-10T10:30:00Z"
+        },
+        "status": "open"
+    },
+    {
+        "id": "20",
+        "type": "installation",
+        "title": "Home Automation Upgrade",
+        "created_datetime": "2023-09-03T14:45:00Z",
+        "description": "Upgrading home automation systems for a smart home.",
+        "customer_info": {
+            "name": "SmartHome Upgrades",
+            "contact_no": "06667778888",
+            "address": "777 Automation Rd",
+            "city": "Automateville",
+            "country": "Automationland",
+            "postal_code": "98765",
+            "preferred_fulfillment_datetime": "2023-09-09T13:00:00Z"
+        },
+        "status": "open"
+    },
+    {
+        "id": "21",
+        "type": "installation",
+        "title": "New Installation 1",
+        "created_datetime": "2023-09-05T12:00:00Z",
+        "description": "A new installation request.",
+        "customer_info": {
+            "name": "Customer 21",
+            "contact_no": "1234567890",
+            "address": "123 New St",
+            "city": "Newville",
+            "country": "Newland",
+            "postal_code": "54321",
+            "preferred_fulfillment_datetime": "2023-09-20T10:00:00Z"
+        },
+        "status": "open"
+    },
+    {
+        "id": "22",
+        "type": "relocation",
+        "title": "New Relocation 1",
+        "created_datetime": "2023-09-06T14:30:00Z",
+        "description": "A new relocation request.",
+        "customer_info": {
+            "name": "Customer 22",
+            "contact_no": "0987654321",
+            "address": "456 Relocate St",
+            "city": "Relocatetown",
+            "country": "Relocateland",
+            "postal_code": "98765",
+            "preferred_fulfillment_datetime": "2023-09-25T11:00:00Z"
+        },
+        "status": "ongoing"
+    },
+    {
+        "id": "23",
+        "type": "installation",
+        "title": "New Installation 2",
+        "created_datetime": "2023-09-07T09:15:00Z",
+        "description": "Another new installation request.",
+        "customer_info": {
+            "name": "Customer 23",
+            "contact_no": "1112233445",
+            "address": "789 Request Ln",
+            "city": "Requestville",
+            "country": "Requestland",
+            "postal_code": "12345",
+            "preferred_fulfillment_datetime": "2023-09-22T13:30:00Z"
+        },
+        "status": "open"
+    },
+    {
+        "id": "24",
+        "type": "relocation",
+        "title": "New Relocation 2",
+        "created_datetime": "2023-09-08T11:30:00Z",
+        "description": "Another new relocation request.",
+        "customer_info": {
+            "name": "Customer 24",
+            "contact_no": "2223334445",
+            "address": "101 New Rd",
+            "city": "Newtown",
+            "country": "Newtownia",
+            "postal_code": "54321",
+            "preferred_fulfillment_datetime": "2023-09-30T09:00:00Z"
+        },
+        "status": "open"
+    },
+    {
+        "id": "25",
+        "type": "installation",
+        "title": "New Installation 3",
+        "created_datetime": "2023-09-09T08:00:00Z",
+        "description": "A third new installation request.",
+        "customer_info": {
+            "name": "Customer 25",
+            "contact_no": "3334445555",
+            "address": "987 Fresh Ave",
+            "city": "Freshville",
+            "country": "Freshland",
+            "postal_code": "67890",
+            "preferred_fulfillment_datetime": "2023-09-18T15:00:00Z"
+        },
+        "status": "open"
+    }
+]
